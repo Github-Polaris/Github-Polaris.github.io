@@ -1,5 +1,4 @@
 ---
-# 其余参数见Hugo的Page配置项
 title: 工具栈 —— Linux与Windows切换使用Obsidian，出现 unexplained changes 问题的解决
 date: 2026-03-05
 description: Obsidian工具的使用问题记录
