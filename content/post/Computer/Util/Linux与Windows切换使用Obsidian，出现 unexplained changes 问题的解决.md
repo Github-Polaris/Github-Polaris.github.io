@@ -7,6 +7,7 @@ tags:
 categories:
   - 工具栈
 image: /cover/Obsidian.png
+draft: false
 ---
 
 如果你的Obsidian文档在Linux与Windows间来回切换，可能会涉及到文件的保存换行符问题，但这样的话就容易导致一个问题，那就是内容无差异，Obsidian却提示unexplained changes。我们首先分析原因。
