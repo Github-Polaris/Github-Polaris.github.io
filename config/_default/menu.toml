@@ -1,0 +1,15 @@
+[[social]]
+    identifier = "github"
+    name       = "GitHub"
+    url        = "https://github.com/Github-Polaris"
+
+    [social.params]
+        icon = "brand-github"
+
+    # [[social]]
+    #     identifier = "wechat"
+    #     name       = "微信公众号"
+    #     url        = "https://twitter.com"
+
+    #     [social.params]
+    #         icon = "wechat"

@@ -1,0 +1,40 @@
+# 网站标题
+title = "木子李的博客"
+languageCode = 'zh'
+# defaultContentLanguage = 'zh'
+# Hostname (and path) to the root
+baseURL = "https://Github-Polaris.github.io/"
+# Hugo 构建网站时使用的默认主题
+# theme = ["github.com/CaiJimmy/hugo-theme-stack/v3"]
+theme = ["github.com/Github-Polaris/hugo-theme-stack/v3"]
+
+featuredImageField = "image"
+# Accepted values: "default", "lastmod"
+# default = see https://gohugo.io/quick-reference/glossary/#default-sort-order
+# lastmod = sort by last modified date, in descending order
+SortBy             = "default"
+
+[pagination]
+  disableAliases = false
+  pagerSize = 5
+  path = 'page'
+
+[caches]
+  [caches.assets]
+    dir = ':resourceDir/_gen'
+    maxAge = -1
+  [caches.getresource]
+    dir = ':cacheDir/:project'
+    maxAge = -1
+  [caches.images]
+    dir = ':resourceDir/_gen'
+    maxAge = -1
+  [caches.misc]
+    dir = ':cacheDir/:project'
+    maxAge = -1
+  [caches.modulequeries]
+    dir = ':cacheDir/modules'
+    maxAge = '24h'
+  [caches.modules]
+    dir = ':cacheDir/modules'
+    maxAge = -1

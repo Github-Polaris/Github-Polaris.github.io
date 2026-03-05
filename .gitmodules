@@ -1,0 +1,4 @@
+[submodule "themes/hugo-theme-stack-v3"]
+	path = themes/hugo-theme-stack-v3
+	url = git@github.com:Github-Polaris/hugo-theme-stack.git
+	branch = v3
