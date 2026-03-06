@@ -22,3 +22,11 @@
     [social.params]
         icon = "brand-github"
 
+[[social]]
+    identifier = "Leetcode"
+    name       = "Leetcode"
+    url        = "https://leetcode.cn/u/li-yun-peng-3/"
+
+    [social.params]
+        icon = "Leetcode"
+
