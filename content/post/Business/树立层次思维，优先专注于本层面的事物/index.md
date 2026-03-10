@@ -6,7 +6,7 @@ tags:
   - 业务
 categories:
   - 业务栈
-image: /cover/Business.jpg
+image: /img/cover/Business.jpg
 ---
 
 > **Q:根据目前的物理学，世间万物是由夸克等基本粒子构成的，会有人想从基本粒子推演出万物的运行规律吗？如社会规律，历史规律，即便是考虑了量子力学的概率与不确定性。**

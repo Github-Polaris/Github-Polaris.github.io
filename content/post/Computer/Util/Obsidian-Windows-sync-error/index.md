@@ -6,7 +6,8 @@ tags:
   - 工具
 categories:
   - 工具栈
-image: /cover/Obsidian.png
+# image: /cover/Obsidian.png
+image: /img/cover/Obsidian.png
 toc: false
 ---
 

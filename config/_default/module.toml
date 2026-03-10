@@ -1,0 +1,3 @@
+[imports]
+    path = "github.com/Github-Polaris/hugo-theme-stack/v4"
+    # path = "hugo-theme-stack"

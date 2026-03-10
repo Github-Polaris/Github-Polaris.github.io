@@ -21,8 +21,9 @@ favicon        = "img/avatar.png"
 
 [sidebar]
     compact = false
-    # emoji    = "✏️"
     subtitle = "长亭外，古道边，芳草碧连天"
+    avatar  = "img/avatar.png"
+
     [avatar]
         enable = true
         local = true

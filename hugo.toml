@@ -5,9 +5,8 @@ languageCode = 'zh'
 # Hostname (and path) to the root
 baseURL = "https://Github-Polaris.github.io/"
 # Hugo 构建网站时使用的默认主题
-# theme = ["github.com/CaiJimmy/hugo-theme-stack/v3"]
-theme = ["github.com/Github-Polaris/hugo-theme-stack/v3"]
-# theme = ["hugo-theme-stack-v3"]
+# theme = ["github.com/Github-Polaris/hugo-theme-stack"]
+# theme = ["hugo-theme-stack"]
 
 featuredImageField = "image"
 # Accepted values: "default", "lastmod"
