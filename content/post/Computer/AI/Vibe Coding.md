@@ -1,14 +1,13 @@
 ---
-title: Vibe Coding
+title: AI技术栈——Vibe Coding
 description: AI氛围编程记录
 date: 2026-03-09
 tags:
   - AI
 categories:
-  - AI技术栈
+  - Computer/AI
 image: /img/cover/AI.jpg
-toc: false
-draft: true
+toc: true
 ---
 
 ChatGPT

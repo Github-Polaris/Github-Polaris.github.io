@@ -1,14 +1,13 @@
 ---
-title: 工具栈 —— Linux与Windows切换使用Obsidian，出现 unexplained changes 问题的解决
+title: 工具栈——Linux与Windows切换使用Obsidian，出现 unexplained changes 问题的解决
 date: 2026-03-05
 description: Obsidian工具的使用问题记录
 tags:
   - 工具
 categories:
-  - 工具栈
-# image: /cover/Obsidian.png
+  - Computer/Util
 image: /img/cover/Obsidian.png
-toc: false
+toc: true
 ---
 
 如果你的Obsidian文档在Linux与Windows间来回切换，可能会涉及到文件的保存换行符问题，但这样的话就容易导致一个问题，那就是内容无差异，Obsidian却提示unexplained changes。我们首先分析原因。

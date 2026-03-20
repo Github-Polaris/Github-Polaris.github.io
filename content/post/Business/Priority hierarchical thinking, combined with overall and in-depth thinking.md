@@ -1,11 +1,11 @@
 ---
-title: 业务能力技术栈 —— 树立层次思维，优先专注于本层面的事物
+title: 业务栈——优先层次思维，兼具全局深度思维
 date: 2026-03-05
-description: 优先专注本层次思维，兼具贯穿全局的深度思维
+description: 优先专注本层面事物，兼具贯穿全局的深度思维
 tags:
   - 业务
 categories:
-  - 业务栈
+  - Business
 image: /img/cover/Business.jpg
 ---
 
